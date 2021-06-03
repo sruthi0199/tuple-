@@ -1,0 +1,6 @@
+tup=('a','b','c','d','e')
+string=''.join(tup)
+print(string)
+tup1=((1,"a"),(2,"b"))
+dict=dict(tup1)
+print(dict)
